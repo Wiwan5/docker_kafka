@@ -1,4 +1,7 @@
 __pycache__/
 
+.env
+
 .vscode
+
 kafka_server_jaas.conf
